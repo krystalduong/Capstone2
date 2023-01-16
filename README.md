@@ -13,9 +13,11 @@ a. Linear Regression: 'RMSE': 35.98, 'RSquared ': 0.11
 
 
 b. K-Nearest Neighbors: 
+
 ![alt text](https://github.com/krystalduong/SpotifyAnalyst/blob/main/Image/KNNerror.png)
 
 c. Random Forest
 ![alt text](https://github.com/krystalduong/SpotifyAnalyst/blob/main/Image/FeatureImportance.png)
 4.Results
+
 It is difficult to determine if a song will be a popular or not. There are many factors at play that are not included in this dataset, like artist popularity, genre, country of origin, etc. However, my best model got meto within 85% of my target value. I can predict how long one song will stay on chart and the search will continue.
